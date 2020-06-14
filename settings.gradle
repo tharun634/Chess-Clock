@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 include ':app'
 rootProject.name='Chess_clock'
+=======
+include ':app'
+rootProject.name='Chess_clock'
+>>>>>>> aef9f898ecc144f4a3b10c0b8bbe7bba469938b8
